@@ -1,4 +1,3 @@
-import { render } from "@testing-library/react"
 import { useEffect, useState } from "react"
 
 const Coffees = () => {
